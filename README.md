@@ -1,1 +1,1 @@
-# basic_ml_projects
+# in the R file above I Used classification methods  such as logistic regression, SVM, classification trees, K-nearest neighbors, naive bayes, and random forest to predict mode of transportation of individuals walking, taking the train, driving in a car, using a bus, or staying still on different data sets Dfirst, Dsecond, and Dthird.
